@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.scope.SingletonWithPrototypeTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-04T06:39:53" hostname="seonaui-MacBookAir.local" time="0.15">
+  <properties/>
+  <testcase name="singletonClientUsePrototype()" classname="hello.core.scope.SingletonWithPrototypeTest1" time="0.15"/>
+  <system-out><![CDATA[PrototypeBean.init hello.core.scope.SingletonWithPrototypeTest1$PrototypeBean@1a7288a3
+PrototypeBean.init hello.core.scope.SingletonWithPrototypeTest1$PrototypeBean@366ef90e
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
